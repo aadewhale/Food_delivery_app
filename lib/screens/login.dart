@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:myapp/authexception.dart';
 import 'package:myapp/custom_text.dart';
 import 'package:myapp/provider/categoryProvider.dart';
-import 'package:myapp/provider/provider.dart';
+import 'package:myapp/provider/app.dart';
 import 'package:myapp/provider/user.dart';
 import 'package:myapp/screens/home.dart';
 import 'package:myapp/screens/registration.dart';

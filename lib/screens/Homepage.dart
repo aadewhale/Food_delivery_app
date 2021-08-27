@@ -5,7 +5,7 @@ import 'package:myapp/screens/login.dart';
 import 'package:myapp/widgets/loading.dart';
 import 'package:myapp/widgets/pageindicator/effects/expanding_dots_effect.dart';
 import 'package:myapp/widgets/pageindicator/smooth_page_indicator.dart';
-import 'package:myapp/provider/provider.dart';
+import 'package:myapp/provider/app.dart';
 import 'package:myapp/widgets/style.dart';
 import 'package:provider/provider.dart';
 

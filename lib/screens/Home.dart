@@ -11,7 +11,7 @@ import 'package:myapp/custom_text.dart';
 
 import 'package:myapp/provider/categoryProvider.dart';
 import 'package:myapp/provider/product.dart';
-import 'package:myapp/provider/provider.dart';
+import 'package:myapp/provider/app.dart';
 
 import 'package:myapp/widgets/style.dart';
 

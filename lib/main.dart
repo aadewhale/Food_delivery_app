@@ -4,7 +4,7 @@ import 'package:myapp/provider/user.dart';
 import 'package:myapp/screens/Home.dart';
 import 'package:myapp/screens/Homepage.dart';
 
-import 'package:myapp/provider/provider.dart';
+import 'package:myapp/provider/app.dart';
 import 'package:myapp/provider/categoryProvider.dart';
 import 'package:myapp/provider/product.dart';
 
